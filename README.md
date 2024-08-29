@@ -6,3 +6,7 @@ AutInAut is designed to test animation when automaton has a sub astd whose not e
 casestudy representes case-study du papier https://hal.science/hal-04344486  
 eastd-synch vient probablement d'une spec du dépot github du castd https://github.com/DiegoOliveiraUDES/ASTD-tools  
 seq je ne me souviens plus 
+
+# Start the animation
+
+Download and open in firefox by double click the download file. 
